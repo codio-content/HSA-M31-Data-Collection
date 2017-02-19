@@ -1,0 +1,1 @@
+![Writing Rubric](http://www.schoolimprovement.com/wp-content/uploads/2014/05/common-core-standards-writing-rubric-9-10.png)

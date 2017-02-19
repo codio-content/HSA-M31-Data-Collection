@@ -1,0 +1,5 @@
+Technology is neither positive nor negative.  Technology itself is neutral, the way it is used and the people who use it determine if it ultimately has a positive or negative impact.  For example, it is said that two pieces of technology, air conditioning and cable television, have had more of an impact on neighborhood dynamics than anything else over the past century.  
+
+On the surface, each of these technologies are good.  Air conditioning has made our homes much more comfortable and has reduced the rate of death during hot summer months.  Cable television is one of the most cost effective forms of entertainment we have, providing many different options for a variety of tastes to be satisfied.  Yet the side effect of both of these technologies was to drive people into their homes when they might otherwise have been outside, socializing with neighbors.
+
+More modern technology has similar properties and it is important to evaluate all technologies for their potential benefits as well as their potential harm.

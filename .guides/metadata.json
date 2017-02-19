@@ -1,0 +1,159 @@
+{
+ "sections": [
+  {
+   "id": "cf9376db-739a-38b6-e6ba-6d9fdbbdb09c",
+   "title": "Data Collection & Culture",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Collection---Culture-cf93.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3b4e4c7c-33bf-f6ab-2926-c99b0ca14a35",
+   "title": "Data Collection - Example",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Collection---Example-3b4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "953635e6-f4d7-19d9-f4db-bfc61dbe3556",
+   "title": "Data Collection Writing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Collection-Writing-9536.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3b4ed61c-943b-9bab-c5e9-7818e90ceb9c",
+   "title": "Data Collecting Writing - Rubric",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Collecting-Writing---Rubric-3b4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  },
+  {
+   "id": "2dd41f74-aff0-896e-7dd1-80c554146de1",
+   "title": "Data & Culture",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data---Culture-2dd4.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8a614aab-3df8-c1a5-12cc-c205221af2c0",
+   "title": "Ridesharing Applications",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ridesharing-Applications-8a61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dfe6e3b2-f2a6-9bb6-a5ff-2cddf9b159e2",
+   "title": "Sharing Economy",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sharing-Economy-dfe6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "84dfa306-2482-7d05-629a-8139a19b42cf",
+   "title": "Sharing Economy Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sharing-Economy-Quiz-84df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "103a2b1a-a798-e3d1-6bae-4f880b500c84",
+   "title": "Sharing Economy Quiz - Rubric",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sharing-Economy-Quiz---Rubric-103a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  },
+  {
+   "id": "f96cb06b-c90e-abfd-5609-920ab43dab42",
+   "title": "Digital Divide",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Divide-f96c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ba4b6552-8d45-4d0a-e50b-006c11aa6fc8",
+   "title": "Digital Divide - Discussion",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Divide---Discussion-ba4b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "60246f2e-40c6-7502-0df0-fed486fe32c5",
+   "title": "Digital Divide Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Divide-Quiz-6024.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

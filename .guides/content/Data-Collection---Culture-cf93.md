@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data about you is always being collected.  This data alone only tells the people who collect it a little bit about you.  For example, if you look at a product on a shopping site, they collect that data.  Ads for that product might follow you around the Internet showing up on different pages.
+
+This ability to follow a person with ads is an effective sales technique.  Since we know you’ve looked at that product, it is likely you might buy that product.  This is a powerful way to try to sell you items you’ve looked at, but how could a company make recommendations or suggest items you might like?
+
+The real power of data is not about tracking you as an individual but instead comparing you to millions of other people and finding people with similar interests and tastes.  By looking at the purchase history of people who buy the same things as you, companies can make much more informed, and eerily accurate recommendations for things you might like.
